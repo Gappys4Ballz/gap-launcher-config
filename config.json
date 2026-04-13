@@ -1,0 +1,49 @@
+{
+  "memoryMB": 2048,
+
+  "currentEvent": {
+    "name": "Lord of the Rings SMP",
+    "version": "1.20.1",
+    "modLoader": "Fabric",
+    "modLoaderVersion": "0.15.7",
+    "mainClass": "net.fabricmc.loader.impl.launch.knot.KnotClient",
+    "mods": [
+      {
+        "name": "Fabric API",
+        "version": "0.92.0",
+        "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/fabric-api-0.92.0+1.20.1.jar"
+      },
+      {
+        "name": "Origins",
+        "version": "1.10.0",
+        "url": "https://cdn.modrinth.com/data/OriginsMod/versions/origins-fabric-1.10.0+1.20.1.jar"
+      },
+      {
+        "name": "Sodium",
+        "version": "0.5.8",
+        "url": "https://cdn.modrinth.com/data/AANobbMI/versions/sodium-fabric-0.5.8+mc1.20.1.jar"
+      }
+    ]
+  },
+
+  "news": [
+    {
+      "title": "Welcome to the LOTR SMP!",
+      "date": "April 2025",
+      "body": "The Lord of the Rings SMP is now live. Choose your race and begin your journey across Middle-earth. Good luck out there."
+    }
+  ],
+
+  "pastEvents": [
+    { "name": "Prison Life 1",  "date": "2024" },
+    { "name": "Prison Life 2",  "date": "2024" },
+    { "name": "Barren Lands",   "date": "2024" },
+    { "name": "Rav & Scav",     "date": "2024" },
+    { "name": "Arcane Event",   "date": "2025" }
+  ],
+
+  "miniEvents": [
+    { "name": "Big Brother",        "date": "2024" },
+    { "name": "Dwarves vs Zombies", "date": "2024" }
+  ]
+}
